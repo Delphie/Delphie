@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelly aka Delphie.
-- 👀 I’m interested in web design, Graphic Design, traveling and cooking.
+- 👀 I’m interested in web design, graphic design, traveling and cooking.
 - 🌱 I’m currently learning advanced CSS and Github.
 - 📫 How to reach me email @kellyhaneishi@gmail.com.
 
